@@ -1,4 +1,4 @@
-This repository hosts the Jupyter notebooks and reference materials for the **Computation in Physics** course assignments.
+This repository hosts the Jupyter notebooks and reference materials for the **Computational Physics** course assignments.
 It is designed to run smoothly in **Visual Studio Code** (VS Code) and classic **Jupyter**.
 
 ## Contents
