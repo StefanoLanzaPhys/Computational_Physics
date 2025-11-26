@@ -7,4 +7,5 @@ It is designed to run smoothly in **Visual Studio Code** (VS Code) and classic *
 - `Assignment_3.1.ipynb` and `Assignment_3.2.ipynb` — Notebooks for Assignment 3 (precession of perihelia and deviations from the $\frac{1}{r^2}$ law; multi-particle systems and planetary orbits);
 - `Assignment_4.ipynb` — Notebook for Assignment 4 (dynamics of molecules subjected to the Lennard-Jones potential - first part);
 - `Assignment_5.ipynb` — Notebook for Assignment 5 (dynamics of molecules subjected to the Lennard-Jones potential - second part);
+- `Assignment_6.ipynb` — Notebook for Assignment 6 (Brownian motion and diffusion equation);
 - ...
