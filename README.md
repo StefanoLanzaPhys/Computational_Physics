@@ -8,4 +8,5 @@ It is designed to run smoothly in **Visual Studio Code** (VS Code) and classic *
 - `Assignment_4.ipynb` — Notebook for Assignment 4 (dynamics of molecules subjected to the Lennard-Jones potential - first part);
 - `Assignment_5.ipynb` — Notebook for Assignment 5 (dynamics of molecules subjected to the Lennard-Jones potential - second part);
 - `Assignment_6.ipynb` — Notebook for Assignment 6 (Brownian motion and diffusion equation);
+- `Assignment_7.ipynb` — Notebook for Assignment 7 (2D Ising model and Metropolis algorithm);
 - ...
